@@ -1,0 +1,312 @@
+Good afternoon All of  You KnowIT
+
+
+What are we Doing at Transflower
+
+AI ( Deep learning + machine Learning)
+    (Computer Vision)
+Device Integration :  Drone + Aerodynamics + Electronics
+Programming:	C++, Python + DotNet + Spring Boot Api + Angular/React js
+DataBase:	MongoDB, MySQL, Streaming Data
+IOT:		Internet of Things (IOT)
+
+
+	Devops + GIT + Automation () + Cloud
+
+
+Advanced Software Development Methodolgoies:
+
+
+	Cloud Ready Application, +  continous Enhancement + Testing +
+
+Solution Build: Solution Deployment + Maintainance+
+
+	Team:
+		Roles and Responsibility
+		Skills
+		Practices
+
+
+Software Engg.
+		
+		Agenda:
+			SDLC:
+			SRS:
+			Design phase of Software:
+
+	Domain:	ECommerce:
+	Customer:Amazon:
+	Expectation: Building OnlineShopping Web Application
+	
+	SRS:
+	
+		
+	Choose SDLC:
+		
+		
+		1.A software requirements specification (SRS) 
+			is a detailed description of a software system to be developed 
+    			with its functional and non-functional requirements.
+		
+		2.The SRS is developed based the agreement between customer and contractors.
+				Customer: ECommerce Company (Amazon)
+				Contractor:SI----System Integrators
+						 (Infosys, Wipro, HCL, TCS .etc)
+					   ISV----Independent Software Vendors
+						  (Product Development Companies)
+	
+		SRS:
+			
+		 3. specification document consistent 
+			of all necessary requirements required for project development. 
+
+
+
+		4.To develop the software system we should have clear understanding of Software system.
+
+
+
+
+	 ECommerce Online Software:
+			Is it going to be Desktop Application ?  : Internet Based Application
+			Is it going to  be used by number of users ? : millions of users will be using system
+			It this software going to be continously evolved with new requirements ?
+									
+			Who are going to be actors for this software ?
+						
+			contains information about 
+				all internal modules, hardware, 
+				Communication with other LOB (Line of Business) Application.
+			        Human  user interactions with real sceniors: mobile UI, descktop UI,Hologgraphic Devices
+			
+
+	 who are going to use your  SRS Document ?
+		
+		Design Team : They should come up with Design 
+			      SME (Subject Matter Experts),
+			      Architect,
+			      Business Analyst
+				Developers Team: will implement through programming, integration,
+								 white box testing:
+						Programmers,  CPP, Java, php, javascript
+						Database Developers/ DBA
+						UI EXperts: Graphics Designers
+							 (User Experience, User Interface)
+		
+								
+		QA Lead:
+			 Start writing Test Cases, Test plan.
+			 Tester
+		
+		Project Management Team:
+			   Schedule,
+			   Resources,
+			   Timeline
+			   Tracking of Softwre Development
+
+
+		Who are going to actors for your system ?
+					Users:-------------------------Abstract word
+						 Customer
+						 Management Team
+						 Store Manager,
+						 existing Bussiness Application
+						 person who wants to purchase product online
+						 Retailer (Shopkeeper)
+						 Admin Team.....
+
+
+		What are going to be internal modules of Online shopping Application?
+
+
+
+		Module:----------> ( Use Cases) Functional Requirements
+					ProductCatalog,
+					Order Processing,
+					Billing, Payment Processing
+					Shipping (Product Delivery)
+					ShoppingCart
+					CRM (Customer Relation Management)
+					Inventory Managment
+					BI( Bussiness Intelligence)
+					
+					Product Promotion(Ranking, Reviws, tagging, Social Data managment)				
+					(Authentication/Authorization)
+
+		What are going to contraints, Policies, Do's and Don't ?
+					Only registered customer can place order
+					only internal staff can cancel, reject , approve orders placed.
+					Store mangager can only update inventory
+					Any End user can view PRoducts , categories, promotinal information
+					
+
+		What is going to be security and performance Criteria ?
+
+
+		Freeze Requirement by getting signed SRS Document from Customer
+
+						
+
+
+
+		100 software are built
+				80 % software are throwns out of scope
+				20%  software are  used but with maintainance, upgrade
+
+
+
+
+		Use Software Notations to  represent your System defined in SRS
+			
+			Use Diagrams
+				
+				Object Oriented Principals
+				
+					UML Diagrams
+					(Unified Modeling Language) Digrams--------------- Design Team
+					
+
+	Welcome Back to second half:
+
+			SRS:
+				a. Functional Requirements----------------->Done
+
+				b. Non Functional Requirements------------->Now Going on 
+
+
+	
+		Non Functional Requirements:
+
+			1.Access Security
+				Extent to which the system is safeguard against deliberate and intrusive fault from internal and 
+				External srouce
+				
+			2.Accessibility
+				Extent to which the software can be used  by people with the widest range of capabilities
+
+			3.Availablity
+				Degree to which users can depend on the system  to be up during  normal operating
+
+			4.Confidentiality
+				Degree to which the software protects sensitive data and allows only authorized access to data
+				
+			5.Efficiency
+				Extent  to which  the software handles capcity, throghput, and response time.
+
+				
+			6.Integrity
+				Show me mobile phones:  information to be shared as per expectation of enduser
+				information should be authenticatte
+
+			7.Reliablity
+				Extent to which software consistenly performs the specified functionality
+			
+			8.Safty
+				Software should prevent harms to endusers or damage to the enviornment where it is deployed
+				
+			9.Usability
+				Ease  with which  the user is able  to learn, operate, prepare inputs through interaction  with system
+
+
+			10.Felixibility
+				New expectations will be there. your sytems should accomodate new changes, extend functionalities and 
+				user expectation
+
+			11.Maintainability
+				faults in software can be founda and fixed;
+				
+			12.Scalability
+				at which  the software is able to expand, its processing capabilies
+			
+
+			13.Installbility:
+				it should be easy  for installation, uninstallation or reinstallation.
+				
+			14.Interoperability:
+
+				you software should be  able to couple , integrate with other softwares
+				
+			15.Portability :
+				Easiness  for sofware can be transferred from its current hardware  or current Enviornment to another.
+
+			16.Reusability:
+				Can one of the module of your software will be converted into a sperate plug in . and that can be used with other 
+				System or Software
+				.
+
+
+
+
+
+
+			
+
+
+
+
+
+
+		
+			SDLC:	Software Development Life cycle
+				
+				will resume my audio in one minute.
+				Let the music get finish......
+				
+				Keeping good spirit with music 
+				
+				Technology and Music should go together......
+
+
+
+
+
+
+
+
+
+
+ SE: Software Engineering
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+

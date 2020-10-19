@@ -1,0 +1,208 @@
+
+
+	Day 8:
+		
+Introduction Cloud
+
+	 Cloud
+		: A virtual Enviornment
+
+			 for deploying applications, services
+			 on  platform
+				security, scalability, availablity
+			 
+			on  infrastructure
+				Computing resources
+	
+				( processing power (CPU + GPU) +  RAM )
+
+				Storage resources
+				 (Elastic Storage high speed, durable, recoverable)
+
+				High speed Network for applications
+				   
+
+
+	 Google Drive:
+			    Cloud storage Service-- is based on Pay as you Go model
+			
+			   Service ?
+				 some kind of logic/ functionality/  Feature
+				 a kind request received and 
+				 request processed 
+					Response  is sent back to
+	  
+	Collaborative online Serives:
+			Google Suite, Microsoft 365
+	
+	 Service : 
+
+		Google Suite
+			Google Drive, Gmail, Doc, Spreasheet, form, hangout, GMeet, 
+			One Drive,
+
+	 Consumer: can be enduser, can be some application.
+	 Consumer needs internet connection, a device and authorize Access
+		  needs subscription( Secure , Authorized Access to  application or 						content)
+
+		  can access application, data at any time
+		  can access  application , data using any device
+		  can access applications , data from any where
+		
+					
+	 Service Provider: Google, Microsoft
+			storage facility--- using plan 
+					any data, any size data,									       any type of,
+			
+			sharing facility--- capability
+					   of controlled access
+
+		Everything is managed by service Provider
+	
+		Everything= service hosting + service execution+ Enviornment (Physical Infra)
+
+
+	 Google data Center
+	 What is Data Center?
+
+		 continous infrastructure
+		 always services avaialble
+		 High level security
+		 Weather, Fire , Earthquage infrastructure facility
+		 High cooling system for keeping Computational enviornment running
+			
+	
+	ROI : return On investment
+		Ravi spending 40 lakh rupees for initial investment to build his own
+				Computing facility for applications consumed by 
+				Students
+		it is not proper for such huge initial investment
+	
+	Option for Ravi Tambade to use  Cloud as Platform and
+			Deploy applications to cloud in short time duration
+
+
+	 Go to cloud
+		 and how are you going to use Cloud
+			consumer------ access services
+		hosting you apps-------access platform
+		host my servers,apps,even mangage-----access Infrastructure
+
+
+		1.Choose you vendor  	: Google, Microsoft, Amazon
+		
+		2.subscribe to vendor cloud:  GCP, Azure, AWS 
+
+		3.Access Cloud console :
+					 start using Cloud 
+						as  IAAS
+						as  PAAS
+		after subscribing to  Google
+				being as end user 
+
+					start consuming services giveny by vendor
+					 SAAS
+
+					Google Drive,
+					Google Earth,
+					Gmail
+				
+_________________________________________________________________________________________________________________________________
+
+
+	Node JS-------?
+		
+		node js is a runtime
+		you write a simple javascript program without browser exeuction
+		you can perform file IO operations using Node JS
+		In node js , we can use callback function
+		
+		Hello World Node js application
+		
+		Node js:
+			for more traffice 
+			Less computation
+			Asynchrnous Programming
+			Event Driven
+			Create server program
+		Which tool are you using to write Node JS application
+			 Visual Code
+			
+		
+			create index.html file
+			create server.js file
+			run server.js which will host index.html
+			
+
+	
+		Runtime:
+						Execution Engine
+		php ---------xamp Apache-------php interpreter---------------------
+		jsp----------tomcat server------jvm (Java Virtual Machine)-----------400 MB 
+		asp.net------IIS----------------CLR (Execution Engine)--------------- 800 MB
+		Exress,http---can create your own server--Node JS---------------------19 MB
+				server.js
+		MEAN Stack:
+				
+
+	.Introduction Virtualization
+	
+		
+		at a time only one operating System will controlling your hardware
+		We can install multipl operating systems on one computer 
+			but we can run only one OS at a time.
+
+		Ravi:
+			16 GB RAM
+			i7 Core Processor
+			1 TB Harddisk
+
+		Virtualization:
+						
+			
+			we will have one physical machine
+				where host OS will be windows
+			we have create one virtual machine 
+				where guest OS for VM will be Linux
+			you need virtualization Enables at hardware level in BIOS Setting
+			
+			you need Virtualization Software to create virtual machine on your computer
+
+				Virtual Box-----------Oracle------------------linux 
+				VMware workstation-----Vmware
+				Microsft Hypervisor-----Microsft
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	.Overview of Containersation
+	.Cloud Computing
+		IAAS, PAAS, SAAS
+
+
+	Day9:
+
+	Introduction to AWS
+	Exploring AWS
+	Creating VM in  AWS
+	
+	

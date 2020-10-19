@@ -1,0 +1,248 @@
+
+ Day 1:
+	Introduction Software Engg.
+
+ Day 2:
+	Software Development Life Cycle 
+	SRS
+	
+ Day 3:
+	SDLC:
+	     Waterfall model
+	     Spiral Model
+	Design & Architectural Engineering
+		Characteristics of Good Design
+		Function oriented  vs. Object Oriented Sytem
+		Modularity,Cohesion, Coupling ,Layering
+		UML
+		OOA and OOD
+		Object Orientation.
+			Object Oriented Analysis
+			Object Oriented Design
+			Object Oriented Programming
+				C++, C#, Java,,,,,,,,,, etc.
+
+	   SRS:
+
+		 Functional Requirements
+				:1,2,4,.....
+		 Non Functional Requirement
+				:..........
+
+
+
+Title:	Online Shopping System (OSS)
+Author: Ravi Tambade
+
+Introduction
+	  Purpose
+	  Scope
+	  Definitions
+		Overview
+	  Additional Information
+
+General Description:
+
+Functional Requirements
+		Description
+		Technical Issues
+
+NonFunctional Requirements
+
+Interface Requirement
+		Software Interface
+				GUI
+		Hardware Interface
+
+Performance Requirement
+Design Contrains
+
+Operational Senario
+Premilimary Schedule
+______________________________________________________________________________________________________________________
+
+Introduction
+
+Purpose:
+	The Online Shopping System for products shop web appliction is inteneded to provide complete solutions for vendors as well as customers through a single get way using the internet. It will enable vendors to setup onlineshops, customer to browse through the shop and purchase them online without having to visiting the shop physically.
+
+Scope:
+	This system allows the customer's to maintain their product for add or remove the product over the internet.
+	Shoppers will be able to manage thier products stock.
+
+Definitions:
+	   OSS --> 	Online Shopping System
+	   SRS --> 	Software Requirement Specification
+	   GUI---> 	Graphical User Interface
+	   Portal-->    Personalized Website
+	   Stackholder--> The person who will participate in the System. And Onwer of system
+				Ex.  Customer, Adminstrator , Shopper
+	   UML--->	Software Engineering Notation for visualising System in the form diagrams
+ 	   SSL--->	Secure Socket Layer used for providing restricted access to application.
+	   BOD--->      Board Of Directors (Management)
+		
+
+Overview:
+	This System provides an easy to solution customer's to buy the product withouy going to the shop and also shop owner to sale         their product.
+
+Additional Information:
+	The system work on internet server, so it will  be operated by any end user user for the buying purpose.
+
+	
+General Description:
+	The Online shopping application helps to manage the items in the shoppers and also helps customers to purchase.
+	The online shopping system will use the internet as the sole method for selling goods to its consumers.
+	
+	
+Functional Requirement:
+	This section provides requirement overview of the system. Various functional modules that can be implemented by 
+	the system will be-
+	
+	Description:
+	Registration if customer wants to buy the product then he/she must be registered, Unregistered user can not get to shopping 		cart.
+        Login Customer logins to the system by entering valid user id and password for shopping.
+	End User can Browse Prodcts , their categories as well, he/ she can add products to her/his wishlist.
+	Payment for customer; there are many of secure billing will be prepaid as debit or credit cart ,
+								      postpaid as after shipping ,check or bank draft.
+	
+	Logout after the payment of the product the customer will logged out.
+	Report Generation after all transation the system can generate the portable file (.pdf)
+	then sent one copy to customer's Email- address and 
+        another one for the system database to calculate the monthly transaction.
+        
+
+Technical Issues:
+	This system will work on client-Server architecture. It will require an internet server.
+	The system should support some commonly used browser such as any  Chrome etc.
+	Interface Requirement Various interfaces for the product could be 
+	1.Login Page, 
+	2.Registration form
+	
+	There will be a screen displaying information about product that the shop having.
+
+	If the customers select the buy button then another screen of shopping cart will be opened.
+		1.Login Page
+		2.Registration Form
+		3.Product Page
+		4.Shopping Cart
+	
+ Hardware Interface:
+	The System must run over the internet,
+        all the hardware shall require to connect internet will be hardware interface for the system.
+		e.g. modem,  WAN, LAN
+		Specialized Server Infrastructure Hardware
+		
+ Software Interface:
+	The system is on server so it requires the any scripting language like JSP or  PHP or ASP, ETC.
+	The system require DataBase also for the store the any transaction of the system like MySql or oracle, or SQL server etc.
+	System also require DNS (Domain Name space) for the naming on the internet.
+	http://www.transflower.in
+	http://www.amazon.in
+        At the lat user need web browser for interact with the system.
+
+
+Performance Requirement:
+	There is no  performance requirement in this system, because the server request  and respone to client is totally based on internet 	connection of enduser.
+
+Design Constrains:
+	This system should be developed using  Standard Web Page Development Tool , which conforms GUI standards such like HTML, XML, JSON,etc.
+
+
+
+Non-Functional Requirements
+
+1.Security:
+	  SSL
+	The System use SSL (Secure Socket Layer) in all trancations that include any confidential customer information.
+	The system must automcatically log out all customers after a period of inactivity.
+	The system should not leave any cookies on the customer's computer containing users's password.
+	The system's back-end servers shall  only be accessible to authenticated administrators.
+	Sensitive data will be encrypted  before being sent onver insecure connections like internet.
+	  
+
+
+2.Reliability:
+	The system provides storage of all databases on redundant computers with  automatic switchover. 
+	The main pillar of reliability of the system  is the backup of the database 
+	which is conitinously maintained and update to reflect  the most recenet changes.
+
+
+3: Availability:
+	The system should be available at all times.meaning the user can access it using web browser, 
+        only restricted by the down time of the server on which the system runs.
+        In case of a of a hardware failure or database corruption, a replacement page will be shown. 
+	uptime : It mean 24 * 7 availability
+	100%--------------
+	99.9%
+	99.999%
+	99.9999%
+
+
+4: Maintainability:
+	A commercial database is used for maintaining the databae and application server takes care of the site. 
+	The maintainability can be done efficiently.
+
+5.Portability:
+	The application is HTML and scripting language based (Javascript). So the end user part is fully portable and any system using any web         browser should be able to use the features of the system,including any hardware platform that is available 
+	or will be available in the futuer. 
+	An end-user  is used this system on an OS;either it is Windows or Linux.
+	The System shall run on PC, Laptops and PDA.etc.
+
+6.......
+
+
+7.....
+8....
+
+
+Operational Scenario:
+	Customer Interaction
+
+	The Customer want to buy item. The system shows all product categories to customer. If custoemr select item then  those items are listed in shoppingcart for buying. The payment will be made with credit card or debit card. If customer wants to cancel the order before shopping then he or she can cancel it. Customer can see the buying report on account details. Customer will receve email about purchase done.
+
+	Shopper Interaction:
+	
+	Staff Interaction:
+	
+	BOD (Board Of Directors)
+	
+	
+
+
+Preliminary Schedule: :
+
+	
+	1.Login
+	2,.Manage customer database Browse category
+	3.add or remove item from cart
+	4. Manage customer database
+	5.update item category
+	6.approve/reject shop creation
+	7.shipping order
+	8.Logout
+	9.Give feedback
+	10.payment
+	11.ByCreditCart By Debit Card By online banking
+	12.Visit Site
+	13.Create new account
+	14.View account details
+	15.Cancel order before shipping
+	.................
+
+
+
+Internet: set of different computer system interconnected using some link fiberoptics cable, satellite communiction,
+											CoAxial cable
+	Internet Solution-----------public web site---End user
+	Intranet  Solution-----------Limited Access/ private access---staff, employees,
+	Extranet  Solution----------- SSL
+				vendor, retailer, supplier restrcited Access
+				Secure Access for outside people
+
+
+
+HTML 5.0  Features
+HTML 5.0
+
+		canvas, section, header, footer, audio, video, geolocation, localstorage, session storage, drag and drop,
+	        Webworker, Websql, etc

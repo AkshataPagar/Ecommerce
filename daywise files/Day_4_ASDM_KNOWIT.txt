@@ -1,0 +1,325 @@
+
+ASDM
+
+ Good Afternoon
+_____________________________________________________________
+
+ Day 4:
+	(Design)
+
+	Softwre Development Life Cycle
+	 WaterFall
+	 Spiral
+	________________________________________________________________________________________________________
+
+
+	Design and Architecture Engineering
+		Characteristics of Good Design
+		Functional Oriented vs. Object Oriented System
+		Modularity, Cohesion, Coupling ,Layering
+		Design Models
+		UML
+	Object Oriented Analysis and Design
+
+
+
+	___________________________________________________________________________________________________________________________________________
+	
+	Online Shopping Application
+			
+
+	Life Cycle ?
+		Process:
+			start ------- End
+
+	PHP:
+	    Website--------php pages
+				html + css+ js + server side code ?.....
+	    WebSite has been deployed  XAMP Server
+	
+	 In Programming:
+
+	   Page Life cycle
+		
+		User interaction:
+
+		 Page is requested by Enduer thorugh sendting request to server
+			using URL
+		 1.page is loaded
+		 2.page is processed
+		 3.server side written get executed
+		 4.interact with Mysql database
+		 5.Fetch data from DB
+		 6.Generate reponse
+		 7.Reponse is sent back to End user 
+			who has place request using url of page
+
+	  In Software Engineering
+		Software Development Life Cycle
+		  Classical Model:
+
+			Model: (Template)
+				Well proven structure
+				standard
+				follow consistent path for building Software
+
+
+			1.Water Fall Model
+
+				1.Analysis   milestone ----- going to be fronzen
+						SRS
+				2.Design-------Design Diagrams
+						DFD, ER Diagrams, etc.
+
+				3.Development-----Write source code/ compile code into executable
+						  
+				4.Testing--------tester will test against executable
+						 passed
+				5.Deployment---------Application is going to be deployed	
+				6.Maintainance ( Customer Support)
+			
+
+		___________________________________________________________________
+	
+		Online Shopping Application
+			is it going to be console Application
+			is it going to be desktop Application
+			is it going to be distributed Appication accessed in LAN
+			is it going to be Web Based Application----------------------------------------yes
+
+		
+		multiple users----------from Centralized SErvers
+			
+		
+		other competitors providing their own Web Based Application
+			
+
+		Customer is going to a king
+			Customers expectations going to be important
+			Challenges will be for ECommerce Providers to meet customer expectations
+
+
+
+
+
+
+	
+		2.Spiral Model
+
+			
+		The spiral model is a risk-driven software development process model. 
+		Based on the unique risk patterns of a given project, 
+                the spiral model guides a team 
+                               to adopt elements of one or more process models, 
+					such as incremental and iterative Development process
+
+
+		 Waterfall model:  you build solution-----compile----------modules are build
+		
+		 Spiral Model	:
+				 is in industry
+					building 
+						Software As A Service ( SAAS )
+					
+			What is What's App ?
+			
+				 Hardware ........................No
+				 Software......................... Yes
+					Desktop Software-----------No
+					Client Server Distrubuted Software--yes
+						 is it internet based ........ ? Yes
+							Website-----------------> No.
+							Whats's is an App--------> yes
+					What do you mean by an App
+
+					Application   ???????--------mspaint, notepad, Visual STudio.net
+
+					App 	      ?????????------Whatsapp, facebook, paytm,  instagram,
+								     twitter, Zoom, Amazon
+						      cloud App
+
+
+
+
+			 cloud App:
+		
+				 .application which deployed to  Cloud
+				 .application is made up of Web Services
+
+	
+			Whatsapp ----------  Software as a Service
+			Facebook  ---------  Software as a Service
+			GDrive-------------  Software as a Service
+ 
+
+	What do you mean by Service:
+
+	  Whats App is a Service:	managed by Facebook
+	  There will be a Service Provider------------------------Facbook company
+	  There will be a Subscriber------ consumed by ------------Ravi Tambade....
+								   Bhagyshree....
+								   Aurn......
+
+
+		
+	  Each Subscriber need to have his/her phone number
+	  Each Subscariber need to have internet connetion on device
+	  Each Subscribe need to be registered with What's app server
+
+
+	 Service Provider need to continously work on 		     getting reviews
+								     setting new plans
+								     identifying new risks , resolving risks
+								     launching new updates
+								     retesting 
+								     redeployment of Whats'app 
+								     Series of servers ( Clusters)
+								    
+	 Business
+			Services  ( core functionalities)
+
+				 to customers
+
+
+
+	Services:	 is evolving
+			 always reshaping
+			 always providing functionatility to existing as well new comers
+
+
+			
+
+							 
+		you rebuild solution----compile
+				  CD/CI
+				  Continous  Plan
+				  Continuous Desgin
+				  continous Development
+				  continuous Integration
+			          continous Delivery---------Autoupdate
+		
+
+	
+		RavI: I am sofware Engg.
+		company: Microsoft
+		Years: 30 years
+		Projects: one project
+		Name of Poject: Windows ( Operating System)
+				
+				windws 10 update 12332232
+				windows 10 update 1232341-----------cortana
+				.......
+				 windows 8.1-----------------
+				 windows 7-------------------modern windows OS-
+				 vista--------------------------------
+				 xp------------------------Diff. computer platform  GUI OS-------------
+				 windows 98----------------Multi Device Integration  GUI OS-------------
+				 windows 95----------------internet freindly  GUI OS-----------------
+				 windws 3.1----------------GUI-------------------------------------
+				 MS DOS--------------------OS-------------------------------
+
+		AGility:
+			
+		
+		Agile Product
+				able to upgrade, enhance quickly and easily.
+
+
+
+
+	       Agile methodolgy have adopted by industry for building , deploying evergrowoing solutions 
+									to consumers
+	
+			 incremental  on time axis
+			 iterative   on each version
+			
+
+
+
+		Softwares are based  on  Model------------------------------------SAAS model
+										 Office 365, Google Apps, Facebook, Salesforce, SAP
+
+		Deployed on 		     ------------------------------------Cloud computing (AWS, AZURE, Google Cloud,, Private Cloud)
+		What form-------------------------Microservices------------------Clusters ( Kubernetes, Docker Swarm, Openshift)
+		What kind deployable unit will be---------------------------------containers
+		What these containers will be containig---------------------------Microservices
+		How they are going to developed-----------------------------------Web services
+		Which Development methodology will be followed--------------------SOA 
+									          (Service Oriented Architecture)
+		SDCL Tool---------------------------------------------------------Jira
+										  Scrum
+
+
+		Online Shopping Application:
+			 Cloud Ready Application
+			 you need to develop Cloud based solution + mobile App + native App 
+
+
+		__________________________________________________________________________________________________________________________________________
+
+			
+		should we call as app means software design to perform perticular task and application means software designed to perform a variety of functions.??
+
+		Whats app--------------------------------- is only communication
+		
+		Microsoft Office: 				Application
+		
+
+		Ravi Tambade : Trainer----------- Training Service-------------
+
+
+		Ramesh Jadhav :Trainer
+			       Developer
+			       tester
+						  	
+
+
+______________________________________________________________________________________________________________________________________________________________________
+
+
+		
+		Design:
+			
+			Functional Oriented Approach-------
+							functionalilities
+							reusable features-------
+									each feature will contain 
+										set of  Operations,   			Algorithms
+									        set of   Data Structure 		structure:
+
+					
+			Object Oriented Approach-----------   Online Shopping Application
+
+
+						easy to maintain
+						easy to extend
+						easy to deploy
+						easy to understand
+
+
+
+
+					we can build solution by Divide Rule philosophy
+							.Loosely Coupled , Highly Cohesive way
+							. delivered in layerd way
+							   Front End----middle 1-Middle layer2------- ------Backend layer
+							   Full Stack Application
+				
+					
+							
+				Service oriented Approach( SOA)
+							 SAAS-------------------------------
+
+
+__________________________________________________________________________________________________________________________________________________
+
+		UML : Unified Modeling Diagrams
+				Use Case Digrams
+				Class Diagrams
+				Sequence Diagrams
+
+				etc.
+			
+
+
+

@@ -1,0 +1,190 @@
+
+Day 5:
+	Agenda:
+		
+		1.Design
+			:
+			 identify Business Entities, operations, rules, contraints, policies
+			 visualize all in diagrams.
+
+			 
+		2.Object Oriented Approach:
+
+			Online Shopping Application
+				real life entities (Objects)
+				class diagrams (Notation)
+				modularity model(Reusibility)
+				into small part devide Solution
+				Abstracting Functional and Non Functional Requirement of System
+				small small part gather together to achive objective (Cohesion)
+				Hiding unnecessary Details
+
+			"Natural Way of thinking"
+			
+				1.Identify object------> actors, entities
+
+					Web Application,Users, end user,Adminstrator, Director,
+					retailor,
+					Customer,Vendor,Shopper,ShoppingCart,Product,Price
+					Order,Account,Item,Consumers
+					Credential
+					Category,Payment, Creditcard, Debit Card, Cash
+					Report (pdf file), Email,database
+					internet server,
+					Transation,
+					Review,
+					Rating,
+					Bill,
+					Service Provider
+					promotions,
+					Parcel,
+
+					Offers
+
+
+				2.Use cases : Scenario
+
+					    1.Payment Processing
+					    2.Order Processing
+					    3.Tracking
+					    4.Membership & Roles Management
+					    5.productcatalog
+					    6.Personalization
+					    7.Shipping (Delivery management)
+					    8.CustomerRelationShip Management( CRM)
+					    9.ShoppingCart
+					    10.BI (Business Intelligence)
+
+
+			        3.Identify relations between Entities (Objects)
+
+					EndUer-- Customer
+					Product---price
+					Product---Item----ShopptingCart
+						---Item---Order
+					Product--review---Rating
+					Order---Bill----payment
+					Customer----Credential
+					EndUser---Review, Rating
+					
+					Payment----Account------Transaction
+					Payment--CreditCard
+					Payment--DebitCard
+					Payment--CashonDelivery
+					Customer---Email----report---pdf file
+					billl ----- report
+					Bill---Parcel
+					Product---Item---ShoppingCart----Order-----Bill----payment----Parcel
+					Product---Offer
+					Product--- Offer---Vendor---Promotion
+				
+
+
+				4.Classify Objects
+				
+				        Classification:
+					
+					Clustering:
+
+					         User, Customer, retailor, Director, Administrator, Shopper, Vendor, Service Provider
+						 Product, category, Item, Shopping Cart,
+					         Order, Bill , Payment,
+						 Payment, CreditCard, DebitCard, CashOnDelivery.....
+
+							
+					Classification will help in identifying common characteristic between diff objects
+								                common behaviours between objects
+										common state between objects
+
+				5.Define Roles and Resposibilities for Objects
+					EndUser:
+						can visit web site
+						can browse products available
+						can add selected product in to wish list
+					        can add likes, comments, review, recommendations to the Product
+						can add get details of Product
+						can add selected product items to Shopping Cart
+						can update items from shopping Cart
+						can empty Shopping Cart
+						can checkout for placing order.
+					Customer:
+						can place order
+						can cancel order before shipping
+						can change his personal information needed for Account processing
+						can provide payment details for payment processing
+						can track order delivery which is placed.
+						can view Order placed history.
+					Product:
+					Category:
+					Item:
+					Shopping Cart
+					Order:
+					Payment
+					Credential:
+					Bill
+					Adminstrator:
+					BOD:
+
+
+
+		Object Oriented Approach: Natural way of Thinking
+
+		
+				Abstraction:
+				
+						Getting an essential characteristic of a system, 
+						depending on perspective of an Observer.
+			
+
+				Each software is inherently complex system to be  understood  for  an enduser
+
+
+
+				Encapsulation:
+						Hiding complexity of system by providing simplified wrapper 
+						(User friendly Interface)
+		
+						Use Case Diagram----------- UML 
+
+						      
+				Inheritance:
+
+
+
+	OOD:
+		Object Oriented Design
+					UML 
+						 UML diagrams 
+							
+			 				Use Case Diagrams, 
+							Sequence  Diagrams, 
+							Class  Diagrams, 
+							Activity Diagrams
+							State transtion Diagrams
+			 				Deployment Diagrams
+				
+
+
+
+		3.Loose Coupling, Cohesion
+		4.Object Oriented Analysis & Design
+		5.Notations to be followed
+			 UML (Unified Modeling Language)
+
+		Take a way:
+		
+		
+
+		 OOD principles
+			Major Pillars as well as minor pillars of OO 
+				 for online shopping application
+
+		 Come up with proper deployment scenario for Online shopping
+
+
+
+
+				Major Pillars of OO
+			
+					
+

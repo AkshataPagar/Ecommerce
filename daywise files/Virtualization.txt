@@ -1,0 +1,67 @@
+
+Good afternoon
+	
+	Agenda:
+		1.Virtualization:
+
+		   a. Physical Machine
+				Physical Infrastrture (Computing Device)
+					Processor----------- Core CPU +  GPU
+					Physical Memory---- RAM
+					Storage-------------Hard Disk
+							    (Disk Drives)
+					I/O Devices----------montior,printer,scanner
+							     Keyboard, Mouse
+							     Electronic Pen,
+							     etc.
+					Network--------------Connectivity
+
+					
+		   b. Virtual Machine
+
+
+
+		Amazon prime---------Digital streaming service
+	Amazon pay----------Payment Service
+	Kindle----------------Book online service
+	Alexa-----------------Home  co worker
+	amazon.com-------------ECommerce Service
+
+		-------------------------Online services provided by Amazon
+	 examples are of  SAAS Model-----Ravi Tambade is consumer
+
+
+
+		----------Amazon Cloud Console
+			  you need to subscribe for Amazon cloud console
+	
+	example of     of IAAS---consume  Infrastructure provided Amazon
+			for creating Virtual machines
+			KnowIT, Seed, Transflower Customers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		2.Public Cloud - AWS:
+
+			Pre-requisite:
+				 you need credit card/ debit cart
+					with VISA/ Mastercard/ American Express
+				 for identity verfication of subscribler
+					2 Rs. will be deducted from your card
+	
+		

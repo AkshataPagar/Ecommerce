@@ -1,0 +1,111 @@
+Day 6:
+
+	Agenda:
+		  SAAS
+			:Sofware As  A Service ( SAAS)
+			24/7------
+			Web
+			from anywhere, on any device, by any one
+
+			Access Service using  url
+				http://www.youtube.com
+
+			SAAS Model is based on  Architecture
+			    SOA:
+				Service Oriented Architecture
+					Reusable services
+					set of services makes you solution
+				
+		 UML & Object Oriented Design (OOD)
+			 Object Oriented Approach
+				 (OOA -- OOD-----OOP)
+				  Natural Way of thinking
+			 SOA:
+		
+				Solution need be Agile
+			Agile:
+				
+
+		Spiral Model:
+			
+		
+
+		Assignment:
+			   Use Case Diagram
+				:---------------------------->
+			
+			   Activity Diagram:
+					Represents Bussiness Process
+					Workflow: 
+					
+					Payment Processing
+					OrderPlacing
+					
+					
+
+	 	 Communicate----------------sending and receiving informatioon
+
+		 Collaborate----------------- team work
+					Customer +  manager + SME + programmer +  Tester + IT team
+				
+		
+		Agile Software Development Model
+		
+			In software development, 
+				agile practices approach discovering requirements and developing solutions
+				
+				through the collaborative effort of self-organizing,
+				cross-functional teams  ( manager + SME + programmer +  Tester + IT team)
+				 &
+                                  their customer/end user
+
+
+		Agile project methodology is project management procedure 
+			 provide solution in step by step manner with the involvement of team + enduer/ customer
+			  build solution in the form of small small sections
+		
+		Online shopping Application
+				how to I start using AGile methodology
+				1. define first version simple prototype
+					Can you depvelop simple web site with  hello world
+						customer says we need online shopping application
+		
+
+		Continous Requirment Gathering + Continous Planning + Continuoud Development+  continouts Testing + 
+		Continous Deployment----------------------------as one sprint------------------------------------
+
+			
+		Speed up or bypass one or more life cycle phase
+		Usually less formal and reduced scope
+		Used for time-critical applications
+		Used in organizations that employ disciplined methods speed up or bypass one or more life cycle phases
+
+
+
+
+
+
+
+
+		 Benefits of Agile
+		 Scrum Overview
+		 Introduction to Jira
+		 
+		Case Study of Developing Web Application using Agile Methodology
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
